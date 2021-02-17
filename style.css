@@ -43,7 +43,7 @@ a:visited {
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #9685BA;
+	color: blueviolet;
 	}
 abbr {
 	border-bottom: none;
